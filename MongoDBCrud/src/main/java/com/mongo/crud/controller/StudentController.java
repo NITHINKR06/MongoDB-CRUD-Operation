@@ -17,7 +17,7 @@ import com.mongo.crud.Repository.StudentRepository;
 import com.mongo.crud.model.StudentModel;
 
 @RestController
-@RequestMapping("/curd/mongo")
+@RequestMapping("/curd/")
 public class StudentController {
 
 	@Autowired
